@@ -1,0 +1,6 @@
+Hello world!
+This text-file witch will be reading for find all distinct words with ignoring ".,/-;:"
+This, text-file, witch. will/ /be// - reading; for: find :;/ all distinct /// words with --- ignoring
+Hello world
+
+Hello world
